@@ -22,9 +22,10 @@ This repository has the code of my first data analisys project
    ```bash
     git clone https://github.com/GugaBRU9/Data_Analysis.git
 2. Enter the repository:
-  ```bash
+    ```bash
     cd Data_Analysis
-3. Run the analysis-coffee-shop.ipynb
-  ```bash
-  python analysis-coffee-shop.ipynb
    
+3.Run the analysis-coffee-shop.ipynb
+  ```bash
+  python analysis-coffee-shop.ipynb 
+ 
